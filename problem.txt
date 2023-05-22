@@ -1,0 +1,5 @@
+An object is launched at a velocity of 50 m/s in a direction making an angle of 25° upward with the horizontal.
+a) What is the maximum height reached by the object?
+b) What is the total flight time (between launch and touching the ground) of the object?
+c) What is the horizontal range (maximum x above ground) of the object?
+d) What is the magnitude of the velocity of the object just before it hits the ground?
